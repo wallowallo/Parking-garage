@@ -1,0 +1,218 @@
+{
+"motorcycles": [
+    {
+        "type": "motorcycle",
+        "make": "Honda",
+        "model": "CBR500R",
+        "year": 2022,
+        "color": "Red"
+    },
+    {
+        "type": "motorcycle",
+        "make": "Kawasaki",
+        "model": "Ninja 400",
+        "year": 2021,
+        "color": "Green"
+    },
+    {
+        "type": "motorcycle",
+        "make": "Yamaha",
+        "model": "YZF-R6",
+        "year": 2020,
+        "color": "Blue"
+    },
+    {
+        "type": "motorcycle",
+        "make": "Suzuki",
+        "model": "GSX-R750",
+        "year": 2019,
+        "color": "Yellow"
+    },
+    {
+        "type": "motorcycle",
+        "make": "Ducati",
+        "model": "Panigale V4",
+        "year": 2022,
+        "color": "Red"
+    },
+    {
+        "type": "motorcycle",
+        "make": "BMW",
+        "model": "S1000RR",
+        "year": 2021,
+        "color": "Black"
+    },
+    {
+        "type": "motorcycle",
+        "make": "Triumph",
+        "model": "Street Triple",
+        "year": 2020,
+        "color": "White"
+    },
+    {
+        "type": "motorcycle",
+        "make": "Harley-Davidson",
+        "model": "Iron 883",
+        "year": 2022,
+        "color": "Black"
+    },
+    {
+        "type": "motorcycle",
+        "make": "KTM",
+        "model": "Duke 390",
+        "year": 2021,
+        "color": "Orange"
+    },
+    {
+        "type": "motorcycle",
+        "make": "Aprilia",
+        "model": "RSV4",
+        "year": 2020,
+        "color": "Black"
+    }
+],
+"cars": [
+    {
+        "type": "car",
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver"
+    },
+    {
+        "type": "car",
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2021,
+        "color": "White"
+    },
+    {
+        "type": "car",
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2020,
+        "color": "Red"
+    },
+    {
+        "type": "car",
+        "make": "Chevrolet",
+        "model": "Cruze",
+        "year": 2019,
+        "color": "Blue"
+    },
+    {
+        "type": "car",
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2022,
+        "color": "Black"
+    },
+    {
+        "type": "car",
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2021,
+        "color": "Gray"
+    },
+    {
+      "type": "car",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2020,
+      "color": "White"
+    },
+    {
+      "type": "car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2022,
+      "color": "Black"
+    },
+    {
+      "type": "car",
+      "make": "Audi",
+      "model": "A4",
+      "year": 2021,
+      "color": "Silver"
+    },
+    {
+      "type": "car",
+      "make": "Lexus",
+      "model": "RX",
+      "year": 2020,
+      "color": "Blue"
+    }
+  ],
+"suvs": [
+    {
+        "type": "suv",
+        "make": "Jeep",
+        "model": "Wrangler",
+        "year": 2022,
+        "color": "Green"
+    },
+    {
+        "type": "suv",
+        "make": "Toyota",
+        "model": "RAV4",
+        "year": 2021,
+        "color": "Silver"
+    },
+    {
+        "type": "suv",
+        "make": "Ford",
+        "model": "Explorer",
+        "year": 2020,
+        "color": "Black"
+    },
+    {
+        "type": "suv",
+        "make": "Chevrolet",
+        "model": "Tahoe",
+        "year": 2019,
+        "color": "White"
+    },
+    {
+        "type": "suv",
+        "make": "Nissan",
+        "model": "Rogue",
+        "year": 2022,
+        "color": "Gray"
+    },
+    {
+        "type": "suv",
+        "make": "Volkswagen",
+        "model": "Tiguan",
+        "year": 2021,
+        "color": "Blue"
+    },
+    {
+        "type": "suv",
+        "make": "BMW",
+        "model": "X5",
+        "year": 2020,
+        "color": "Black"
+    },
+    {
+        "type": "suv",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "year": 2022,
+        "color": "Silver"
+    },
+    {
+        "type": "suv",
+        "make": "Audi",
+        "model": "Q5",
+        "year": 2021,
+        "color": "White"
+    },
+    {
+        "type": "suv",
+        "make": "Lexus",
+        "model": "NX",
+        "year": 2020,
+        "color": "Red"
+    }
+  ]
+}
