@@ -13,7 +13,7 @@ interface VehicleProps {
     endParking: (parkingTicket: ParkingTicket) => void;
 }
 
-const Vehicle: React.FC<VehicleProps> = ({ vehicle, id, level, parkingEnded, spotNumber, timeParked, endParking }) => {
+const VehicleComponent: React.FC<VehicleProps> = ({ vehicle, id, level, parkingEnded, spotNumber, timeParked, endParking }) => {
     const isParked = timeParked !== null;
     const showInfo = false;
     const iconColor = isParked ? 'text-red-500' : 'text-green-500';
@@ -79,4 +79,4 @@ const Vehicle: React.FC<VehicleProps> = ({ vehicle, id, level, parkingEnded, spo
     );
 };
 
-export default Vehicle;
+export default VehicleComponent;
